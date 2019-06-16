@@ -1,4 +1,4 @@
-# weather
+# bmi
 
 A new Flutter application.
 
